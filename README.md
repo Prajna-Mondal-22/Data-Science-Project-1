@@ -272,8 +272,9 @@ The video covers:
 ###  Video Links
 
 * **GitHub:** This repository contains the complete notebook and project files.
-* **LinkedIn:** [Add your LinkedIn post/video link]
-* **Project Walkthrough Video:** [Add your video link]
+* **LinkedIn:** https://www.linkedin.com/posts/prajna-mondal-1b864137a_datascience-machinelearning-nlp-activity-7507084134947889152-U3Ol?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF2189wBF3X7ljkv2XGBKVdSKa_4ohyfLRA
+
+
 
 ---
 
